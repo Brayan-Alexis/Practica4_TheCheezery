@@ -24,8 +24,7 @@
         android:text="@string/welcome_text"
         android:textAlignment="center"
         android:textColor="@color/dusty_white"
-        android:textSize="24sp"
-        />
+        android:textSize="24sp" />
 
     <TextView
         android:layout_width="match_parent"
